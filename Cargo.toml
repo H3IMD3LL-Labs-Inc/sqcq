@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-io_uring = "0.7.11"
+io-uring = "0.7.11"
